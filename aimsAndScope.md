@@ -18,5 +18,5 @@ The journal has the following open science ambitions:
   stated in the paper must be accessible without the need for registration, login or agreement
   with license terms other than Creative Commons licenses for data and text and OSI-approved
   Open Source Licenses for software.
-* for any scripts or software, the source code must be provided.
+* For any scripts or software, the source code must be provided.
 
