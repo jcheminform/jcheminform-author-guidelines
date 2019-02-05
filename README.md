@@ -10,12 +10,12 @@ guidelines.
 
 ## Article Types
 
-* [Book Report](bookReport.md)
-* [Commentary](commentary.md)
-* [Database](database.md)
-* [Meeting Report](meetingReport.md)
-* [Methodology](methodology.md)
-* [Preliminary Communication](preliminaryCommunication.md)
-* [Research Article](researchArticle.md)
-* [Review](review.md)
-* [Software](software.md)
+* [Book Report](guidelines/bookReport.md)
+* [Commentary](guidelines/commentary.md)
+* [Database](guidelines/database.md)
+* [Meeting Report](guidelines/meetingReport.md)
+* [Methodology](guidelines/methodology.md)
+* [Preliminary Communication](guidelines/preliminaryCommunication.md)
+* [Research Article](guidelines/researchArticle.md)
+* [Review](guidelines/review.md)
+* [Software](guidelines/software.md)
