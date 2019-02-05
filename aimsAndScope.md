@@ -15,7 +15,7 @@ The journal has the following open science ambitions:
 
 * publish research or software that is entirely reproducible by third parties
 * access to any datasets, software and algorithms that are required to reach the conclusions
-  stated in the paper mus be accessible without the need for registration, login or agreement
+  stated in the paper must be accessible without the need for registration, login or agreement
   with license terms other than Creative Commons licenses for data and text and OSI-approved
   Open Source Licenses for software.
 * for any scripts or software, the source code must be provided.
