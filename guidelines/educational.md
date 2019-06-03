@@ -16,7 +16,7 @@ The title page should:
 * present a title that includes, if appropriate, the research design
 
 * list the full names and institutional addresses for all authors​​​​​​​
- - if a collaboration group should be listed as an author, please list the Group name as an author and include the names of the individual members of the Group in the “Acknowledgements” section in accordance with the instructions below
+    *if a collaboration group should be listed as an author, please list the Group name as an author and include the names of the individual members of the Group in the “Acknowledgements” section in accordance with the instructions below
 
 * indicate the corresponding author
 
