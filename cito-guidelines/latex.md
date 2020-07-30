@@ -6,7 +6,7 @@ License: CC-BY 4.0 International
 Users of the [BMC LaTeX template](http://media.biomedcentral.com/content/production/bmc_article-tex.zip) (see also
 [this page](https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript)) only have to
 make a small edit in their `.bib` file. Following the template, you can add a `note` field to the BiBTeX file
-and wrap the `[cito:citesAsDataSource] [cito:confirms]` (:
+and wrap the `[cito:citesAsDataSource] [cito:confirms]` in an `\textbf{}`:
 
 ```bibtex
 @book{marg,
