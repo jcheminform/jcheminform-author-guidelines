@@ -8,6 +8,10 @@ guidelines.
 
 * [Aims and Scope](aimsAndScope.md)
 
+## Best Practices
+
+* [Instructions on how to add Citation Typing Ontology annotation](cito.md)
+
 ## Article Types
 
 * [Book Report](guidelines/bookReport.md)
