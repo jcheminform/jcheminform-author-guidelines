@@ -3,7 +3,7 @@
 Author: Egon Willighagen, https://orcid.org/0000-0001-7542-0286 <br />
 License: CC-BY 4.0 International
 
-Users of the [JCheminform Markdown template](https://github.com/jcheminform/markdown-jcheminf-research)
+Users of the [JCheminform Markdown template](https://github.com/jcheminform/markdown-jcheminf)
 is under development and being tested as option to submit articles to the journal. The setup is similar
 to that of LaTeX and you need a local processor (pandoc) to convert PDF (for preprint servers) or a Word `.docx`
 document for submission to the journal.
