@@ -5,19 +5,33 @@ login or agreement with license terms other than Creative Commons licenses for d
 [OSI-approved Open Source Licenses](http://opensource.org/licenses/alphabetical)
 for software. For any software, the source code must be provided.**
 
-Data articles should describe a curated, CCZero or CC-BY-licensed dataset likely to be of broad utility. The dataset must
-be curated as detailed in this publication and archived for long-term reuse. A Data article describes the content
+A Data Note should describe a curated, CCZero or CC-BY-licensed dataset likely to be of broad utility. The dataset must
+be curated as detailed in this publication and archived for long-term reuse. A Data Note describes the content
 of the data set, the method used to curate the data, and a description of how the dataset deposition complies with
-the [FAIR principles](https://doi.org/10.1162/DINT_R_00024). Unlike with a Database paper, a Data paper focuses on the
+the [FAIR principles](https://doi.org/10.1162/DINT_R_00024). Unlike with a Database paper, Data Notes focus on the
 data itself and not how the data can be graphically or otherwise explored.
 
-Data articles should include an abstract that does not exceed 350 words.
+The structure of a Data Notes paper, should include the following components:
 
-A graphical abstract can be supplied which, together with the article title, should provide the reader with a
-visual description of the type of chemistry covered in the article. The graphical abstract should be 920 x 300
-pixels and a maximum of 150KB jpeg, png or svg file. Authors are encouraged to make judicious use of colour in
-graphical abstracts. All graphical abstracts should have a white background and where possible should fill the
-available width.
+* an abstract that does not exceed 350 words
+* an Objective section
+* a Data description
+* a Limitations section
+* followed by the common sections Abbreviations, Declarations, and References
+
+The main section of the article starts with a Objective section explaining where the data came
+from and why it was collected citing a selection of relevant literature, particularly articles describing
+data (re)used in this article, and how this data is or can be used. The Limitations section should
+discuss the limitations of the data to help the reader to assess the reusability.
+
+The Data description should contain a table describing the data files presented in this publication,
+describe the metholody used to make the data FAIR, and describe software requirements needed to use the
+data. The description of the FAIR-ification must describe for all FAIR Guiding Principles what
+choices were made for the presented data, citing appropriate literature. For example, describe
+where (meta)data is made findable, what globally unique persistent identifiers are used, such as the
+the InChI for chemical structures, and what open standards or ontologies are used in the dataset.
+Of particular interest is the domain-specific community standards employed in the dataset. This
+can include applied minimal reporting standards. A summary of this can be provided as a table.
 
 **Citation Typing Ontology pilot**
 
