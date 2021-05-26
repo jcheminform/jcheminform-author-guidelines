@@ -18,3 +18,10 @@ Here are some questions you might want to consider:
 * Are there any studies, facts, or ideas the authors have neglected to consider?
 * Would you like to make any further reading suggestions?
 * And last but not least: Why should anybody read this book - or why should they not? Is it an important book?
+
+**Citation Typing Ontology pilot**
+
+The _Journal of Cheminformatics_ welcomes authors to participate in our pilot using the Citation Typing Ontology
+([http://purl.org/spar/cito](http://purl.org/spar/cito)). For more information, please see
+[here](https://www.biomedcentral.com/collections/c/co/cito).
+

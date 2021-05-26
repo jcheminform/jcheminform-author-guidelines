@@ -19,3 +19,10 @@ minireviews. A Commentary generally takes one of two forms:
   effect on research. By their nature, the second form of Commentary is less frequent.
 
 Commentary articles should be between 800 and 1,200 words with an abstract that should not exceed 350 words.
+
+**Citation Typing Ontology pilot**
+
+The _Journal of Cheminformatics_ welcomes authors to participate in our pilot using the Citation Typing Ontology
+([http://purl.org/spar/cito](http://purl.org/spar/cito)). For more information, please see
+[here](https://www.biomedcentral.com/collections/c/co/cito).
+
