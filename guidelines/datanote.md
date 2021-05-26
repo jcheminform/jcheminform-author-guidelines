@@ -15,7 +15,7 @@ The structure of a Data Notes paper, should include the following components:
 
 * an abstract that does not exceed 350 words
 * an Objective section
-* a Data description
+* a Data description, with two subsections called Curation and FAIR-ification
 * a Limitations section
 * followed by the common sections Abbreviations, Declarations, and References
 
@@ -24,9 +24,13 @@ from and why it was collected citing a selection of relevant literature, particu
 data (re)used in this article, and how this data is or can be used. The Limitations section should
 discuss the limitations of the data to help the reader to assess the reusability.
 
-The Data description should contain a table describing the data files presented in this publication,
-describe the methodologies used curate the data and to make the data FAIR, and describe software requirements needed to use the
-data. The description of the FAIR-ification must describe for all FAIR Guiding Principles what
+The Data description should contain a table describing the data files presented in this publication
+in a general paragrah, following by two subsections describing the methodologies used curate the data
+(in the "Curation" subsection) and to make the data FAIR (in the "FAIR-ification" subsection).
+The Curation section must describe how the data was curated and how much the data was improved
+this way.
+
+The FAIR-ification section must describe for all FAIR Guiding Principles what
 choices were made for the presented data, citing appropriate literature. For example, describe
 where (meta)data is made findable, what globally unique persistent identifiers are used, such as the
 the InChI for chemical structures, and what open standards or ontologies are used in the dataset.
