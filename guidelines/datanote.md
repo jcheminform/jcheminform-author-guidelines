@@ -25,7 +25,7 @@ data (re)used in this article, and how this data is or can be used. The Limitati
 discuss the limitations of the data to help the reader to assess the reusability.
 
 The Data description should contain a table describing the data files presented in this publication,
-describe the metholody used to make the data FAIR, and describe software requirements needed to use the
+describe the methodologies used curate the data and to make the data FAIR, and describe software requirements needed to use the
 data. The description of the FAIR-ification must describe for all FAIR Guiding Principles what
 choices were made for the presented data, citing appropriate literature. For example, describe
 where (meta)data is made findable, what globally unique persistent identifiers are used, such as the
