@@ -5,7 +5,7 @@ login or agreement with license terms other than Creative Commons licenses for d
 [OSI-approved Open Source Licenses](http://opensource.org/licenses/alphabetical)
 for software. For any software, the source code must be provided.**
 
-Data articles should describe a curated, CCZero-license dataset likely to be of broad utility. The dataset must
+Data articles should describe a curated, CCZero or CC-BY-licensed dataset likely to be of broad utility. The dataset must
 be curated as detailed in this publication and archived for long-term reuse. A Data article describes the content
 of the data set, the method used to curate the data, and a description of how the dataset deposition complies with
 the FAIR principles. Unlike with a Database paper, a Data paper focuses on the data itself and not how the data
