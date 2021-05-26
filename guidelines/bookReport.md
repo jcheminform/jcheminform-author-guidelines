@@ -5,7 +5,7 @@ agreement with license terms other than Creative Commons licenses for data and t
 [OSI-approved Open Source Licenses](http://opensource.org/licenses/alphabetical)
 for software. For any software, the source code must be provided.**
 
-Book reports are short articles (about 400 words) that are written by specialists and read by the general community.
+Book reports are (short) articles that are written by specialists and read by the general community.
 The aim of a Book report is to give a brief summary of the book's strengths and weaknesses and to evaluate the
 book's overall usefulness to the audience it is intended for.
 
