@@ -22,7 +22,9 @@ The structure of a Data Notes paper, should include the following components:
 The main section of the article starts with a Objective section explaining where the data came
 from and why it was collected citing a selection of relevant literature, particularly articles describing
 data (re)used in this article, and how this data is or can be used. The Limitations section should
-discuss the limitations of the data to help the reader to assess the reusability.
+discuss the limitations of the data to help the reader to assess the reusability. When your
+data is collected from other data, adhere to the [DataCite](https://datacite.org/cite-your-data.html) principles
+(and please use *[cito:usesDataFrom]*, see the Citation Typing Ontology section below).
 
 The Data description should contain a table describing the data files presented in this publication
 in a general paragrah, following by two subsections describing the methodologies used curate the data
