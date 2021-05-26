@@ -8,8 +8,8 @@ for software. For any software, the source code must be provided.**
 Data articles should describe a curated, CCZero or CC-BY-licensed dataset likely to be of broad utility. The dataset must
 be curated as detailed in this publication and archived for long-term reuse. A Data article describes the content
 of the data set, the method used to curate the data, and a description of how the dataset deposition complies with
-the FAIR principles. Unlike with a Database paper, a Data paper focuses on the data itself and not how the data
-can be graphically or otherwise explored.
+the [FAIR principles](https://doi.org/10.1162/DINT_R_00024). Unlike with a Database paper, a Data paper focuses on the
+data itself and not how the data can be graphically or otherwise explored.
 
 Data articles should include an abstract that does not exceed 350 words.
 
