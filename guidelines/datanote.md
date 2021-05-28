@@ -7,7 +7,7 @@ for software. For any software, the source code must be provided.**
 
 A Data Note should describe a curated, Public Domain, CCZero or CC-BY-licensed dataset (explicit statement is
 required), and likely to be of broad utility. The dataset must
-be curated as detailed in this publication and archived for long-term reuse. A Data Note describes the content
+be curated as detailed in this publication and archived for long-term reuse. A Data Note must describe the content
 of the data set, the method used to curate the data, and a description of how the dataset deposition complies with
 the [FAIR principles](https://doi.org/10.1162/DINT_R_00024). Unlike with a Database paper, Data Notes focus on the
 data itself and not how the data can be graphically or otherwise explored.
