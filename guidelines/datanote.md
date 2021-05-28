@@ -30,8 +30,8 @@ data is collected from other data, adhere to the [DataCite](https://datacite.org
 The Data description should contain a table describing the data files presented in this publication
 in a general paragrah, following by at least two subsections describing the methodologies used curate the data
 (in the "Curation" subsection) and to make the data FAIR (in the "FAIR-ification" subsection).
-The Curation section must describe how the data was curated and how much the data was improved
-this way.
+The Curation section must describe how the data was curated and include a qualitative or quantitative
+characterization how the data was improved this way.
 
 The FAIR-ification section must describe for all FAIR Guiding Principles what
 choices were made for the presented data, citing appropriate literature. For example, describe
