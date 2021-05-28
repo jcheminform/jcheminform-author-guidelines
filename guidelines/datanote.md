@@ -28,7 +28,7 @@ data is collected from other data, adhere to the [DataCite](https://datacite.org
 (and please use *[cito:usesDataFrom]*, see the Citation Typing Ontology section below).
 
 The Data description should contain a table describing the data files presented in this publication
-in a general paragrah, following by two subsections describing the methodologies used curate the data
+in a general paragrah, following by at least two subsections describing the methodologies used curate the data
 (in the "Curation" subsection) and to make the data FAIR (in the "FAIR-ification" subsection).
 The Curation section must describe how the data was curated and how much the data was improved
 this way.
