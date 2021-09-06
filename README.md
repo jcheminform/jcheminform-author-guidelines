@@ -17,6 +17,7 @@ guidelines.
 * [Book Report](guidelines/bookReport.md)
 * [Commentary](guidelines/commentary.md)
 * [Database](guidelines/database.md)
+* [Datanote](guidelines/datanote.md)
 * [Meeting Report](guidelines/meetingReport.md)
 * [Methodology](guidelines/methodology.md)
 * [Preliminary Communication](guidelines/preliminaryCommunication.md)
