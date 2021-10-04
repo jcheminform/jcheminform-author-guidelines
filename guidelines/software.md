@@ -58,6 +58,8 @@ All graphical abstracts should have a white background and where possible should
 
 **Citation Typing Ontology pilot**
 
-The _Journal of Cheminformatics_ welcomes authors to participate in our pilot using the Citation Typing Ontology
-([http://purl.org/spar/cito](http://purl.org/spar/cito)). For more information, please see
+The _Journal of Cheminformatics_ started a pilot using the Citation Typing Ontology
+([http://purl.org/spar/cito](http://purl.org/spar/cito)) to annotate citations in articles with the reason
+why that paper is cited. For software papers, authors should annotation citations to articles about the
+software used in this article with _cito:usesMethodIn_. For more information, please see
 [here](https://www.biomedcentral.com/collections/c/co/cito).
