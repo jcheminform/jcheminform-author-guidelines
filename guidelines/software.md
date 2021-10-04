@@ -34,6 +34,21 @@ software that drives the website will be made available to other researchers to 
 the other hand, if a website's functionality is closely tied to a specific database then the article should instead
 be submitted as a Database article. 
 
+**Software quality**
+
+Because software should be easy to reuse, the quality of the software will be assessed in the review process too.
+Minimally, a source code distribution must include documentation that states the software license(s), the list
+of authors (and/or copyright owners). Ideally, it also includes instructions on how to compile (if applicable)
+and run your code. Second, we strongly encourage to archive the specific version of the software on Zenodo or
+something equivalent, see for example this [GitHub guideline](https://guides.github.com/activities/citable-code/).
+Authors are encourage to read and use suggestions from these papers, while reviewers are encourage to assess
+these aspects, where they will improve the software:
+* [Ten Simple Rules for Developing Usable Software in Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265),
+* [Ten Simple Rules for Taking Advantage of Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947),
+* [Ten Simple Rules for the Open Development of Scientific Software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002802),
+* [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285), and
+* [Ten simple rules to make your computing more environmentally sustainable](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324).
+
 **Graphical abstract**
 
 A graphical abstract can be supplied which, together with the article title, should provide the reader with a visual
