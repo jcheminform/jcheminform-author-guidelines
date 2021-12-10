@@ -56,7 +56,7 @@ description of the type of chemistry covered in the article. The graphical abstr
 maximum of 150KB jpeg, png or svg file. Authors are encouraged to make judicious use of colour in graphical abstracts.
 All graphical abstracts should have a white background and where possible should fill the available width.
 
-**Citation Typing Ontology pilot**
+**Citation Typing Ontology**
 
 The _Journal of Cheminformatics_ started a pilot using the Citation Typing Ontology
 ([http://purl.org/spar/cito](http://purl.org/spar/cito)) to annotate citations in articles with the reason
