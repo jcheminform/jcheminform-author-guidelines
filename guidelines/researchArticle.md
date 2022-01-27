@@ -19,9 +19,3 @@ should have a white background and where possible should fill the available widt
 The _Journal of Cheminformatics_ welcomes authors to participate in our pilot using the Citation Typing Ontology
 ([http://purl.org/spar/cito](http://purl.org/spar/cito)). For more information, please see
 [here](https://www.biomedcentral.com/collections/c/co/cito).
-
-**FAIR chemical structures**
-
-Articles discussing chemical structures, computed or with experimental data, should include
-a document in the Additional files with machine readable information about those chemicals,
-as explained in [this paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00520-4).
