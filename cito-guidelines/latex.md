@@ -10,8 +10,8 @@ and wrap the `[cito:citesAsDataSource]` in an `\textbf{}`:
 
 ```bibtex
 @article{koon,
-  author  = {Koonin, E V and Altschul, S F and P Bork}, 
-  title   = {BRCA1 protein products: functional motifs}, 
+  author  = {Koonin, E V and Altschul, S F and Bork, P}, 
+  title   = {{BRCA1} protein products: functional motifs}, 
   journal = {Nat Genet}, 
   year    = {1996},
   volume  = {13}, 
